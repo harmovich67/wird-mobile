@@ -1,0 +1,303 @@
+{
+  "izhar_halqi": [
+    {
+      "text": "مَنْ آمَنَ",
+      "surah": 2,
+      "ayah": 62,
+      "word": 8,
+      "count": 2
+    },
+    {
+      "text": "يَنْأَوْنَ",
+      "surah": 6,
+      "ayah": 26,
+      "word": 4,
+      "count": 1
+    },
+    {
+      "text": "عَلِيمٌ حَكِيمٌ",
+      "surah": 4,
+      "ayah": 11,
+      "word": 70,
+      "count": 2
+    }
+  ],
+  "idgham_ghunnah": [
+    {
+      "text": "مَن يَقُولُ",
+      "surah": 2,
+      "ayah": 8,
+      "word": 3,
+      "count": 2
+    },
+    {
+      "text": "مِن نِّعْمَةٍ",
+      "surah": 16,
+      "ayah": 53,
+      "word": 3,
+      "count": 2
+    },
+    {
+      "text": "هُدًى لِّلْمُتَّقِينَ",
+      "surah": 2,
+      "ayah": 2,
+      "word": 6,
+      "count": 2
+    }
+  ],
+  "idgham_bila_ghunnah": [
+    {
+      "text": "مِن رَّبِّهِمْ",
+      "surah": 2,
+      "ayah": 5,
+      "word": 4,
+      "count": 2
+    },
+    {
+      "text": "هُدًى لِّلْمُتَّقِينَ",
+      "surah": 2,
+      "ayah": 2,
+      "word": 6,
+      "count": 2
+    },
+    {
+      "text": "غَفُورٌ رَّحِيمٌ",
+      "surah": 2,
+      "ayah": 173,
+      "word": 24,
+      "count": 2
+    }
+  ],
+  "iqlab": [
+    {
+      "text": "مِن بَعْدِ",
+      "surah": 2,
+      "ayah": 27,
+      "word": 5,
+      "count": 2
+    },
+    {
+      "text": "أَنبِئْهُم",
+      "surah": 2,
+      "ayah": 33,
+      "word": 3,
+      "count": 1
+    },
+    {
+      "text": "سَمِيعٌ بَصِيرٌ",
+      "surah": 4,
+      "ayah": 58,
+      "word": 24,
+      "count": 2
+    }
+  ],
+  "ikhfa_haqiqi": [
+    {
+      "text": "مِن قَبْلُ",
+      "surah": 2,
+      "ayah": 25,
+      "word": 23,
+      "count": 2
+    },
+    {
+      "text": "أَنفُسَهُمْ",
+      "surah": 2,
+      "ayah": 9,
+      "word": 8,
+      "count": 1
+    },
+    {
+      "text": "كِتَابٌ كَرِيمٌ",
+      "surah": 27,
+      "ayah": 29,
+      "word": 7,
+      "count": 2
+    }
+  ],
+  "ikhfa_shafawi": [
+    {
+      "text": "تَرْمِيهِم بِحِجَارَةٍ",
+      "surah": 105,
+      "ayah": 4,
+      "word": 1,
+      "count": 2
+    },
+    {
+      "text": "يَعْتَصِم بِاللَّهِ",
+      "surah": 3,
+      "ayah": 101,
+      "word": 11,
+      "count": 2
+    }
+  ],
+  "idgham_mithlayn": [
+    {
+      "text": "لَهُم مَّا يَشَاءُونَ",
+      "surah": 39,
+      "ayah": 34,
+      "word": 1,
+      "count": 3
+    },
+    {
+      "text": "فِي قُلُوبِهِم مَّرَضٌ",
+      "surah": 2,
+      "ayah": 10,
+      "word": 1,
+      "count": 3
+    }
+  ],
+  "izhar_shafawi": [
+    {
+      "text": "أَنعَمْتَ عَلَيْهِمْ",
+      "surah": 1,
+      "ayah": 7,
+      "word": 3,
+      "count": 2
+    },
+    {
+      "text": "هُمْ فِيهَا",
+      "surah": 2,
+      "ayah": 39,
+      "word": 8,
+      "count": 2
+    }
+  ],
+  "qalqalah_sughra": [
+    {
+      "text": "يَقْطَعُونَ",
+      "surah": 9,
+      "ayah": 121,
+      "word": 8,
+      "count": 1
+    },
+    {
+      "text": "يَطْمَعُ",
+      "surah": 70,
+      "ayah": 38,
+      "word": 1,
+      "count": 1
+    },
+    {
+      "text": "حَبْلٌ",
+      "surah": 50,
+      "ayah": 16,
+      "word": 13,
+      "count": 1
+    }
+  ],
+  "qalqalah_kubra": [
+    {
+      "text": "الْفَلَقِ",
+      "surah": 113,
+      "ayah": 1,
+      "word": 4,
+      "count": 1
+    },
+    {
+      "text": "مُحِيطٌ",
+      "surah": 2,
+      "ayah": 19,
+      "word": 18,
+      "count": 1
+    },
+    {
+      "text": "كَسَبَ",
+      "surah": 2,
+      "ayah": 81,
+      "word": 3,
+      "count": 1
+    },
+    {
+      "text": "وَتَبَّ",
+      "surah": 111,
+      "ayah": 1,
+      "word": 5,
+      "count": 1
+    }
+  ],
+  "madd_tabiee": [
+    {
+      "text": "قَالَ",
+      "surah": 2,
+      "ayah": 30,
+      "word": 2,
+      "count": 1
+    },
+    {
+      "text": "يَقُولُ",
+      "surah": 2,
+      "ayah": 8,
+      "word": 4,
+      "count": 1
+    },
+    {
+      "text": "قِيلَ",
+      "surah": 2,
+      "ayah": 11,
+      "word": 2,
+      "count": 1
+    }
+  ],
+  "madd_wajib_muttasil": [
+    {
+      "text": "السَّمَاءِ",
+      "surah": 2,
+      "ayah": 19,
+      "word": 4,
+      "count": 1
+    },
+    {
+      "text": "جِيءَ",
+      "surah": 89,
+      "ayah": 23,
+      "word": 1,
+      "count": 1
+    },
+    {
+      "text": "سُوءَ",
+      "surah": 2,
+      "ayah": 49,
+      "word": 7,
+      "count": 1
+    }
+  ],
+  "madd_jaiz_munfasil": [
+    {
+      "text": "يَا أَيُّهَا",
+      "surah": 2,
+      "ayah": 21,
+      "word": 1,
+      "count": 1
+    },
+    {
+      "text": "إِنَّا أَعْطَيْنَاكَ",
+      "surah": 108,
+      "ayah": 1,
+      "word": 1,
+      "count": 2
+    }
+  ],
+  "madd_lazim": [
+    {
+      "text": "الضَّالِّينَ",
+      "surah": 1,
+      "ayah": 7,
+      "word": 9,
+      "count": 1
+    },
+    {
+      "text": "الحَاقَّةُ",
+      "surah": 69,
+      "ayah": 1,
+      "word": 1,
+      "count": 1
+    },
+    {
+      "text": "آلآنَ",
+      "surah": 10,
+      "ayah": 51,
+      "word": 7,
+      "count": 1
+    }
+  ]
+}
